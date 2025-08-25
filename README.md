@@ -71,7 +71,7 @@ Trends | What is the monthly sales performance pattern?
   - Sales by Category (Technology, Furniture, Office Supplies)  
   - Monthly Sales Trend  
 
-![Sales Dashboard](sales-dashboard.png)
+![Sales Dashboard]([sales-dashboard.png](https://github.com/DataGuy-Eterniti/PowerBI-Sales-Dashboard/blob/main/Tina%20Boot%20camp%201.png))
 
 ---
 
